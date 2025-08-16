@@ -41,7 +41,7 @@
 
 ## 🐍 Contribution Graph Snake  
 
-![snake gif](https://github.com/Avijit6152/Avijit6152/blob/main/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Avijit6152/Avijit6152/blob/main/github-contribution-grid-snake.svg)   
 
 ---
 
