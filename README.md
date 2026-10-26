@@ -1,94 +1,64 @@
-<!--
-AVIJIT6152 // DEVELOPER COMMAND CENTER
-Replace the contents of your profile repository's README.md with this file.
--->
+ <!-- =========================================================
+     AVIJIT KUMAR LENKA — COLORFUL DEVELOPER PROFILE
+     GitHub profile README.md
+========================================================= -->
 
-<div align="center">
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Avijit%20Kumar%20Lenka&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Software%20Developer&descAlignY=60&descSize=16&animation=fadeIn&color=0:70D6FF,35:80FFDB,65:FF70A6,100:C77DFF" alt="Colorful animated profile banner"/>
+</p>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF9C?style=flat-square&labelColor=080B10" alt="System online"/>
-<img src="https://img.shields.io/badge/PROFILE-AVIJIT6152-00D9FF?style=flat-square&labelColor=080B10" alt="Profile"/>
-<img src="https://img.shields.io/badge/MODE-ENGINEERING-9D7BFF?style=flat-square&labelColor=080B10" alt="Engineering mode"/>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=700&color=80FFDB&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+Avijit+Kumar+Lenka!;Java+Full+Stack+Developer;Spring+Boot+%7C+MySQL+%7C+REST+APIs;Frontend+%26+Backend+Developer;Computer+Lab+Programmer+%7C+Technical+Trainer;Building+Ideas+Into+Reality!" alt="Animated introduction"/>
+</h3>
 
-<br/><br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java%20Developer-70D6FF?style=for-the-badge&logo=openjdk&logoColor=172033" alt="Java Developer"/>
+  <img src="https://img.shields.io/badge/Full%20Stack-80FFDB?style=for-the-badge&logo=code&logoColor=172033" alt="Full Stack"/>
+  <img src="https://img.shields.io/badge/Tech%20Enthusiast-FF70A6?style=for-the-badge&logo=rocket&logoColor=white" alt="Tech Enthusiast"/>
+</p>
 
-# `avijit@developer:~$`
+<p align="center">
+  <a href="https://github.com/Avijit6152">
+    <img src="https://komarev.com/ghpvc/?username=Avijit6152&style=for-the-badge&color=C77DFF&label=PROFILE+VISITORS" alt="Profile visitors"/>
+  </a>
+  <a href="https://github.com/Avijit6152?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My%20Projects-70D6FF?style=for-the-badge&logo=github&logoColor=172033" alt="Explore projects"/>
+  </a>
+</p>
 
-### AVIJIT KUMAR LENKA
-
-**JAVA ENGINEER · FULL STACK DEVELOPER · TECHNICAL TRAINER**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=700&color=00FF9C&center=true&vCenter=true&width=600&lines=%3E+Initializing+developer+environment...;%3E+Building+Java+applications...;%3E+Connecting+APIs+and+databases...;%3E+Turning+ideas+into+working+software...;%3E+Status%3A+Always+learning." alt="Developer terminal animation"/>
-
-<br/>
-
-<a href="https://github.com/Avijit6152">
-<img src="https://img.shields.io/badge/OPEN_TERMINAL-GitHub-00FF9C?style=for-the-badge&logo=github&logoColor=080B10&labelColor=00FF9C" alt="GitHub profile"/>
-</a>
-<a href="https://www.linkedin.com/in/avijit-kumar-lenka-150593335/">
-<img src="https://img.shields.io/badge/CONNECT-LINKEDIN-00D9FF?style=for-the-badge&logo=linkedin&logoColor=080B10&labelColor=00D9FF" alt="LinkedIn profile"/>
-</a>
-
-</div>
+<p align="center">
+  <b>✦ Think creatively. Code passionately. Build the future. ✦</b>
+</p>
 
 ---
 
-## `01 // BOOT_SEQUENCE`
-
-```text
-[ OK ] Developer profile initialized
-[ OK ] Java development environment loaded
-[ OK ] Database connectivity skills detected
-[ OK ] Frontend development modules loaded
-[ OK ] Technical training experience detected
-[ RUNNING ] Learning. Building. Improving.
-```
-
-```java
-public class Avijit {
-
-    String name = "Avijit Kumar Lenka";
-    String role = "Computer Lab Programmer";
-    String organization = "United School of Business Management";
-
-    String[] interests = {
-        "Java Full Stack Development",
-        "Spring Boot & REST APIs",
-        "Web Application Development",
-        "Database Design",
-        "Artificial Intelligence"
-    };
-
-    public String getDeveloperStatus() {
-        return "Always learning, always building.";
-    }
-}
-```
-
-## `02 // ENGINEERING_PROFILE`
+## 🌈 About Me
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-**CURRENT ROLE**
+### Hello, World! 
 
-Computer Lab Programmer
+I'm **Avijit Kumar Lenka**, a technology professional who enjoys developing applications, exploring new technologies, and sharing programming knowledge.
 
-United School of Business Management
+- Working as a Computer Lab Programmer at United School of Business Management.
+- Developing Java applications and full-stack web projects.
+- Working with Spring Boot, MySQL, HTML, CSS, and JavaScript.
+- Exploring Artificial Intelligence and Machine Learning.
+- Interested in clean code, useful applications, and modern UI design.
+- Passionate about technology, teaching, and continuous learning.
 
-**PRIMARY FOCUS**
-
-Java applications, web technologies, database integration, and practical programming education.
+**My mission:** Turn innovative ideas into practical digital solutions.
 
 </td>
-<td width="50%" valign="top">
+<td width="40%" align="center" valign="middle">
 
-**DEVELOPMENT PHILOSOPHY**
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Animated software developer coding"/>
 
-- Readable code over unnecessary complexity.
-- Practical solutions over empty promises.
-- Consistent learning over standing still.
-- Useful software over features without purpose.
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-Always%20Learning-80FFDB?style=for-the-badge" alt="Always learning"/>
 
 </td>
 </tr>
@@ -96,139 +66,133 @@ Java applications, web technologies, database integration, and practical program
 
 ---
 
-## `03 // TECHNOLOGY_MATRIX`
+## 🧩 My Technology Universe
 
-<details open>
-<summary><b>01 — Languages & Programming</b></summary>
-<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,html,css,js,react,bootstrap,python,c,cpp,php,nodejs,git,github,postman,vscode,idea,eclipse&perline=7" alt="Programming languages and development tools"/>
+</p>
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+### Programming Languages
 
-</details>
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-70D6FF?style=for-the-badge&logo=c&logoColor=172033" alt="C"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-C77DFF?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/PHP-FF70A6?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+</p>
 
-<details open>
-<summary><b>02 — Backend Engineering</b></summary>
-<br/>
+### Frontend Development
 
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring"/>
-<img src="https://img.shields.io/badge/REST_APIs-00D9FF?style=flat-square&logo=fastapi&logoColor=black" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/JDBC-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="JDBC"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven"/>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
 
-</details>
+### Backend & Database
 
-<details open>
-<summary><b>03 — Frontend Engineering</b></summary>
-<br/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-
-</details>
-
-<details open>
-<summary><b>04 — Database, Testing & Developer Tools</b></summary>
-<br/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white" alt="Eclipse"/>
-
-</details>
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring-80FFDB?style=flat-square&logo=spring&logoColor=172033" alt="Spring"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/REST_API-C77DFF?style=flat-square&logo=fastapi&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/JDBC-70D6FF?style=flat-square&logo=databricks&logoColor=172033" alt="JDBC"/>
+</p>
 
 ---
 
-## `04 // ACTIVE_BUILD_ENVIRONMENT`
-
-**Selected engineering projects**
+## 💎 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### `ONECAMPUS`
+<h3 align="center">💙 OneCampus</h3>
 
-**Academic Management System**
+<p align="center">
+  <img src="https://img.shields.io/badge/ACADEMIC-MANAGEMENT-70D6FF?style=for-the-badge" alt="Academic management"/>
+</p>
 
-A Java-based student and academic management application.
+A student and academic management system designed to connect students, faculty, courses, attendance, and academic records.
 
+**Highlights**
 - Student and faculty workflows
-- Courses and attendance
+- Course and attendance management
 - Results and academic records
-- Database-backed operations
+- Java and database integration
 
-`JAVA` `SERVLETS` `JDBC` `MYSQL`
-
-<a href="https://github.com/Avijit6152?tab=repositories">`$ explore project repositories →`</a>
+<p align="center">
+  <a href="https://github.com/Avijit6152?tab=repositories">Explore Project →</a>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### `SHOPEASE`
+<h3 align="center">💗 ShopEase</h3>
 
-**E-Commerce Application**
+<p align="center">
+  <img src="https://img.shields.io/badge/E--COMMERCE-FF70A6?style=for-the-badge" alt="E-commerce"/>
+</p>
 
-A shopping experience focused on transparent pricing and a simple user journey.
+A shopping application focused on straightforward product browsing, transparent pricing, and a smooth checkout experience.
 
-- Product browsing
-- Shopping cart and checkout
+**Highlights**
+- Product catalogue
+- Shopping cart
 - Responsive interface
-- Order workflow
+- Checkout and order flow
 
-`HTML` `CSS` `JAVASCRIPT`
-
-<a href="https://github.com/Avijit6152?tab=repositories">`$ explore project repositories →`</a>
+<p align="center">
+  <a href="https://github.com/Avijit6152?tab=repositories">Explore Project →</a>
+</p>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### `BYTE2CODE`
+<h3 align="center">💚 Byte2Code</h3>
 
-**Technology & Learning Initiative**
+<p align="center">
+  <img src="https://img.shields.io/badge/LEARNING-80FFDB?style=for-the-badge" alt="Learning platform"/>
+</p>
 
-A collection of education, programming, and software-development initiatives.
+An education and technology initiative focused on computer training, programming, online learning, and software solutions.
 
-- Computer training
-- Online learning
-- Programming practice
-- Software solutions
+**Highlights**
+- Computer education
+- Programming courses
+- Learning resources
+- Software development
 
-`JAVA` `SPRING BOOT` `MYSQL` `WEB`
-
-<a href="https://github.com/Avijit6152?tab=repositories">`$ explore project repositories →`</a>
+<p align="center">
+  <a href="https://github.com/Avijit6152?tab=repositories">Explore Project →</a>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### `NEXT_DEPLOYMENT`
+<h3 align="center">💜 Future Projects</h3>
 
-**Future Engineering Work**
+<p align="center">
+  <img src="https://img.shields.io/badge/INNOVATION-C77DFF?style=for-the-badge" alt="Innovation"/>
+</p>
 
-Continuously exploring new ideas and improving existing projects.
+Continuously improving my portfolio with new applications, better interfaces, and modern development practices.
 
+**Focus Areas**
 - API integration
 - Application architecture
-- Better user experience
 - AI-assisted development
+- Better user experience
 
-`LEARN` `DESIGN` `BUILD` `ITERATE`
-
-<a href="https://github.com/Avijit6152?tab=repositories">`$ inspect all repositories →`</a>
+<p align="center">
+  <a href="https://github.com/Avijit6152?tab=repositories">View All Repositories →</a>
+</p>
 
 </td>
 </tr>
@@ -236,73 +200,88 @@ Continuously exploring new ideas and improving existing projects.
 
 ---
 
-## `05 // GITHUB_TELEMETRY`
+## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Avijit6152&show_icons=true&hide_border=true&bg_color=15162C&title_color=70D6FF&icon_color=80FFDB&text_color=F5F3FF&rank_icon=github" alt="GitHub statistics"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avijit6152&layout=compact&hide_border=true&bg_color=15162C&title_color=FF70A6&text_color=F5F3FF&langs_count=8" alt="Most used languages"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Avijit6152&show_icons=true&hide_border=true&bg_color=080B10&title_color=00FF9C&icon_color=00D9FF&text_color=C9D1D9" width="48%" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avijit6152&layout=compact&hide_border=true&bg_color=080B10&title_color=00FF9C&text_color=C9D1D9&langs_count=8" width="48%" alt="Most used languages"/>
+<p align="center">
+  <img width="80%" src="https://streak-stats.demolab.com?user=Avijit6152&hide_border=true&background=15162C&ring=C77DFF&fire=FF70A6&currStreakLabel=80FFDB&sideLabels=70D6FF&dates=E5E7EB" alt="GitHub streak statistics"/>
+</p>
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Avijit6152&hide_border=true&background=080B10&ring=00FF9C&fire=00D9FF&currStreakLabel=00FF9C&sideLabels=C9D1D9&dates=8B949E" width="80%" alt="Contribution streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Avijit6152&bg_color=080B10&color=00FF9C&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution activity"/>
-
-</div>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Avijit6152&bg_color=101426&color=70D6FF&line=80FFDB&point=FF70A6&area=true&hide_border=true&custom_title=My%20Coding%20Journey" alt="GitHub activity graph"/>
+</p>
 
 ---
 
-## `06 // AUTOMATION_PIPELINE`
+## 🐍 Animated Contribution Snake
 
-**Contribution snake**
-
-This section requires a GitHub Actions workflow to generate the animation and publish it to the `output` branch.
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Avijit6152/Avijit6152/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
-</div>
-
-If the image is missing, check the Actions workflow, repository permissions, and whether the `output` branch has been generated.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Avijit6152/Avijit6152/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Avijit6152/Avijit6152/output/github-contribution-grid-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/Avijit6152/Avijit6152/output/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution snake"/>
+  </picture>
+</p>
 
 ---
 
-## `07 // CONNECTION_GATEWAY`
+## 🏆 Achievements & Developer Journey
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Avijit6152&theme=onestar&no-frame=true&no-bg=true&row=2&column=4" width="95%" alt="GitHub trophies"/>
+</p>
 
-**Have an idea, a project, or an interesting technical challenge?**
-
-<a href="https://github.com/Avijit6152">
-<img src="https://img.shields.io/badge/GITHUB-Explore_Code-00FF9C?style=for-the-badge&logo=github&logoColor=080B10" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/avijit-kumar-lenka-150593335/">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-00D9FF?style=for-the-badge&logo=linkedin&logoColor=080B10" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/Avijit6152?tab=repositories">
-<img src="https://img.shields.io/badge/REPOSITORIES-View_Projects-9D7BFF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-</a>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/LEARN-70D6FF?style=for-the-badge" alt="Learn"/>
+  <img src="https://img.shields.io/badge/BUILD-80FFDB?style=for-the-badge" alt="Build"/>
+  <img src="https://img.shields.io/badge/CREATE-FF70A6?style=for-the-badge" alt="Create"/>
+  <img src="https://img.shields.io/badge/INNOVATE-C77DFF?style=for-the-badge" alt="Innovate"/>
+</p>
 
 ---
 
-<div align="center">
+## ✨ Developer Inspiration
 
-```text
-while (curious) {
-    learn();
-    build();
-    improve();
-    repeat();
-}
-```
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="85%" alt="Developer quote"/>
+</p>
 
-**END OF TRANSMISSION**
+<p align="center">
+  <i>"Great software starts with curiosity and grows through consistent practice."</i>
+</p>
 
-`Built with logic. Driven by curiosity. Powered by continuous learning.`
+---
 
-</div>
+## 🌐 Let's Connect
 
+<p align="center">
+  <a href="https://github.com/Avijit6152">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/avijit-kumar-lenka-150593335/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Avijit6152?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-Explore%20Repositories-C77DFF?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile!</b>
+  <br/>
+  Keep learning, keep creating, and keep making a difference through technology.
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:70D6FF,35:80FFDB,65:FF70A6,100:C77DFF" alt="Colorful animated footer"/>
+</p>
+
+<p align="center">
+  <b>BETTER CODE ✦ BETTER IDEAS ✦ BETTER TOMORROW</b>
+</p>
+
+<!-- END OF README -->
